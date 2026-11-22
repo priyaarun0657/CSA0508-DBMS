@@ -1,0 +1,2 @@
+Transaction: BEGIN -> READ canal_pool -> VALIDATE remaining quota -> DEBIT source -> CREDIT destination -> COMMIT
+ACID: atomic debit/credit; consistency quota; isolation conflicts; durability log

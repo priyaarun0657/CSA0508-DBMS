@@ -1,0 +1,2 @@
+Schedule: ['T1:R(pool)', 'T2:R(pool)', 'T1:W(pool)', 'T2:W(pool)']
+Conflict edges: T1 -> T2 and T2 -> T1; cycle => not conflict-serializable

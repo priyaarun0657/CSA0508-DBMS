@@ -1,0 +1,6 @@
+Write-ahead log:
+<START T1>
+<T1,POOL_A,100,80>
+<T1,POOL_B,20,40>
+<COMMIT T1>
+Recovery: redo committed; undo uncommitted

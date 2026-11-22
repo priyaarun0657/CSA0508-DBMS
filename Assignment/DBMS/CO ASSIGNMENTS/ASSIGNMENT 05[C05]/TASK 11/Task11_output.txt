@@ -1,0 +1,2 @@
+Recommendation: strict 2PL with ordered locks, WAL and deadlock detection
+Hot canal: partition/queue approvals while preserving atomic quota checks

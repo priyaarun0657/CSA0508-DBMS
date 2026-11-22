@@ -1,0 +1,1 @@
+Atomic movement: {'CANAL_A': 85, 'CANAL_B': 35} ; total conserved= 120

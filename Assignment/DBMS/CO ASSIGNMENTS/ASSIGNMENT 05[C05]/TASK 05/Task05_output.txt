@@ -1,0 +1,2 @@
+Wait-for graph: {'T1': ['T2'], 'T2': ['T1']} ; cycle => deadlock
+Victim policy: abort youngest transaction and release locks

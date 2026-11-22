@@ -1,0 +1,1 @@
+Timestamp T2= 20 ; late write rejected when TS < readTS or writeTS

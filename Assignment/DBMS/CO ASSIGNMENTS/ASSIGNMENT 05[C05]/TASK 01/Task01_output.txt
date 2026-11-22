@@ -1,0 +1,3 @@
+Serial execution baseline => prevents conflicting quota allocation anomalies
+Strict 2PL locks => prevents conflicting quota allocation anomalies
+Timestamp ordering => prevents conflicting quota allocation anomalies

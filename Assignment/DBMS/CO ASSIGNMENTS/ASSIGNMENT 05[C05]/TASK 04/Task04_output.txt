@@ -1,0 +1,3 @@
+Dirty read: T2 reads T1 uncommitted quota
+Recoverable schedule requires T2 commit after T1
+Cascadeless: read only committed values

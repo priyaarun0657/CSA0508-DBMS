@@ -1,0 +1,2 @@
+81% requests target one canal; hotspot likely
+Adapt: canal-specific queue + strict transaction; recovery target <35 seconds must be tested

@@ -1,0 +1,2 @@
+Theory: serial/strict 2PL protects quota invariant; contention creates waits
+Experiment: measure throughput, latency, abort rate and recovery time
