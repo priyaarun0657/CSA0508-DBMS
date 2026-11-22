@@ -1,0 +1,3 @@
+Candidate key: ['SenderID', 'ServiceID', 'DispatchWave']
+Partial dependency: SenderID -> SenderName; ServiceID -> ServiceName
+Transitive: Completion -> ServiceBand -> RouteFactor

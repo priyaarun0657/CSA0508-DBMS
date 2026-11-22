@@ -1,0 +1,2 @@
+Theory: normalization reduces repeated sender/service/operator facts
+Experiment caveat: joins, indexes and cache affect local timings

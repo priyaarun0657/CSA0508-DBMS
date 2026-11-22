@@ -1,0 +1,2 @@
+Decomposition: OBSERVATION join ASSIGNMENT join SERVICE join SENDER
+Dependency-preserving: keys/UNIQUE constraints on determinants

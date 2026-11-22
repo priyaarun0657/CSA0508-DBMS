@@ -1,0 +1,2 @@
+Recommended: BCNF source schema with indexed observation key and service code
+Reason: update integrity while preserving tracking lookup paths

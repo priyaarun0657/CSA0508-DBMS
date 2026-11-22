@@ -1,0 +1,2 @@
+Changed workload: 55,000/hour = 15.28/second
+Adaptation: indexed read projection; refresh after reconciled corrections

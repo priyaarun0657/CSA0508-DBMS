@@ -1,0 +1,2 @@
+Relational algebra: PROJECT SenderID, ServiceCode (SELECT Completion >= 90 OBSERVATION JOIN SERVICE)
+Tuple calculus: t in OBSERVATION and t.Completion >= 90

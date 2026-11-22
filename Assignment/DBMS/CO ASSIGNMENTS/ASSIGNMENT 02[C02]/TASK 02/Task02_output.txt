@@ -1,0 +1,9 @@
+Functional dependencies:
+SenderID -> SenderName, RouteGroup
+ServiceID -> ServiceCode, ServiceName
+ServiceCode -> ServiceID
+(SenderID,ServiceID) -> CoordinatorID
+CoordinatorID -> CoordinatorName, Hub
+(SenderID,ServiceID,DispatchWave) -> Completion
+Completion -> ServiceBand
+ServiceBand -> RouteFactor

@@ -1,0 +1,2 @@
+Repeated sender facts: 2 rows; SenderName would be duplicated
+Update anomaly demonstration: one sender-name change must update both rows

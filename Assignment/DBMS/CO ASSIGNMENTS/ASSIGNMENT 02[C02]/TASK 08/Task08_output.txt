@@ -1,0 +1,2 @@
+SQL test: SELECT SenderID, ServiceCode, DispatchWave, Completion FROM Observation WHERE Completion >= 90;
+Sample result: S102 | EXP | WAVE-04 | 96

@@ -1,0 +1,3 @@
+Flat: 13 attributes
+Partial: ['SENDER', 'SERVICE', 'OBSERVATION'] 
+BCNF: ['SENDER', 'SERVICE', 'ASSIGNMENT', 'POLICY', 'OBSERVATION']
