@@ -1,0 +1,4 @@
+open overdue loans => sample rows: 1
+artifacts without condition reports => sample rows: 1
+exhibition inventory by slot => sample rows: 1
+loan custody history => sample rows: 1

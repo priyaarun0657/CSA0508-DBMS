@@ -1,0 +1,1 @@
+Stable keys: {'LENDER': 'LenderID', 'LOAN': 'LoanID', 'ARTIFACT': 'ArtifactID', 'DISPLAY_SLOT': '(ExhibitionID, SlotNo)'}

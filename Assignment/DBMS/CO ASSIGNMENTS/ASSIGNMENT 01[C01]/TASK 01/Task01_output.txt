@@ -1,0 +1,3 @@
+A LOAN as dated relationship
+B LOAN as independent occurrence
+C shared PERSON roles

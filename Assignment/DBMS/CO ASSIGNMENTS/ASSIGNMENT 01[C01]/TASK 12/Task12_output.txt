@@ -1,0 +1,2 @@
+Changed requirement: shared ownership
+Adaptation: Separate OWNERSHIP_HISTORY from LOAN and CONDITION_REPORT

@@ -1,0 +1,3 @@
+LENDER-LOAN 1..N loans per lender
+LOAN-ARTIFACT 1..N artifacts per loan
+EXHIBITION-SLOT 1..N slots per exhibition

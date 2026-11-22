@@ -1,0 +1,2 @@
+Museum schema loaded: 3 lenders, 2 loans, 4 artifacts
+Constraint check: Loan end date >= start date -> PASS

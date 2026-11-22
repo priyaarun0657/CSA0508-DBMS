@@ -1,0 +1,1 @@
+Recommendation: Use PERSON identity plus independent LOAN and LOAN_OBJECT records

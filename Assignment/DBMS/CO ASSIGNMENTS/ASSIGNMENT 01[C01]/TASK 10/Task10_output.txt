@@ -1,0 +1,4 @@
+File sequential scan
+Hierarchical tree traversal
+Network owner-member links
+Relational JOIN by keys

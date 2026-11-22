@@ -1,0 +1,1 @@
+EER specialisations: {'PERSON': ['CURATOR', 'LENDER'], 'ARTIFACT': ['COLLECTION_ITEM', 'LOANED_ITEM']}

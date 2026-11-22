@@ -1,0 +1,6 @@
+Mapped relations:
+LENDER(LenderID,PersonID)
+PERSON(PersonID,Name)
+LOAN(LoanID,LenderID,StartDate,EndDate)
+LOAN_OBJECT(LoanID,ArtifactID)
+CONDITION_REPORT(ReportID,ArtifactID,LoanID)
