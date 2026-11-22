@@ -1,0 +1,2 @@
+SUPPLY sample tuples: [('SUP1', 'CAT1', 'WH1'), ('SUP1', 'CAT1', 'WH2'), ('SUP2', 'CAT1', 'WH1'), ('SUP2', 'CAT2', 'WH2')]
+5NF candidate projections: SC, CW, SW; validate join against original

@@ -1,0 +1,2 @@
+MVD ProductID ->> Tag: {'P10': ['eco', 'gift'], 'P11': ['sale', 'new']}
+MVD ProductID ->> Colour: {'P10': ['red', 'blue'], 'P11': ['black']}

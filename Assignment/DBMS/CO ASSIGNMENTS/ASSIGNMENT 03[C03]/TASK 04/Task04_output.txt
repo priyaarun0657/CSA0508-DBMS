@@ -1,0 +1,3 @@
+1NF: atomic TagList/ColourList values required
+2NF: remove Customer facts dependent only on OrderID or CustomerID
+Composite key: (OrderID, ProductID)

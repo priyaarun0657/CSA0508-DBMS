@@ -1,0 +1,2 @@
+3NF decomposition: ['CUSTOMER', 'ORDERS', 'PRODUCT', 'SUPPLIER', 'CATEGORY', 'ORDER_ITEM']
+BCNF check: every determinant is a candidate key in its relation

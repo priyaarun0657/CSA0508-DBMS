@@ -1,0 +1,3 @@
+Update anomaly: supplier phone repeated on many order lines
+Insertion anomaly: product cannot be recorded before an order
+Deletion anomaly: deleting last order may remove customer facts

@@ -1,0 +1,2 @@
+Current product price: 499.0 Historical price paid: 459.0
+Adaptation: store UnitPricePaid in ORDER_ITEM; index customer/order history

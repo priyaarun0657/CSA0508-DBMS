@@ -1,0 +1,7 @@
+ShopNest dependencies:
+CustomerID -> CustomerName, CustomerEmail
+ProductID -> ProductName, UnitPrice, CategoryID, SupplierID
+CategoryID -> CategoryName
+SupplierID -> SupplierName, SupplierPhone
+OrderID -> OrderDate, CustomerID
+(OrderID,ProductID) -> Quantity, WarehouseID

@@ -1,0 +1,2 @@
+Expected: normalized schema lowers supplier/category repetition
+Trade-off: order-history query performs joins; indexes reduce lookup work

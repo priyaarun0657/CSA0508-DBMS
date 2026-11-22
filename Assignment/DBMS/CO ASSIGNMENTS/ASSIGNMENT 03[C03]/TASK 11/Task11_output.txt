@@ -1,0 +1,2 @@
+Recommendation: normalized product/customer/supplier facts; ORDER_ITEM stores quantity and price paid
+Integrity: PK/FK/UNIQUE/CHECK

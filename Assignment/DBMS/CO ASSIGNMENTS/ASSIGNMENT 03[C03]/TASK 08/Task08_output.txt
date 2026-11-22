@@ -1,0 +1,2 @@
+SQL: SELECT OrderID, ProductID, Quantity FROM ORDER_ITEM WHERE Quantity > 2;
+Test: CHECK Quantity > 0; FK ProductID references PRODUCT

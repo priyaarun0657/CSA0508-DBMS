@@ -1,0 +1,1 @@
+Closure of {OrderID,ProductID}: ['CustomerEmail', 'CustomerID', 'CustomerName', 'OrderDate', 'OrderID', 'ProductID', 'Quantity', 'WarehouseID']
