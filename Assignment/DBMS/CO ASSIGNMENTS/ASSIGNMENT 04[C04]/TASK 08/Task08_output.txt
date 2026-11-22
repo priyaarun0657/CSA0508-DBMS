@@ -1,0 +1,2 @@
+Equality result: {'TxnID': 42, 'AccountNo': 'A2', 'Branch': 'B0'}
+Range count: 11

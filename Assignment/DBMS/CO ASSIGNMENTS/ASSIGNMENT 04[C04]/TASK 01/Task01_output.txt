@@ -1,0 +1,2 @@
+Block size=4096 bytes, record=200 bytes, blocking factor=20, blocks=50,000
+Strategies: heap, sorted file, B+ tree, hash

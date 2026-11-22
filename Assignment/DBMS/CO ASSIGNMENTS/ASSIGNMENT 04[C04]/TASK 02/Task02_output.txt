@@ -1,0 +1,2 @@
+Primary cost measure: disk block transfers
+HDD: seek + rotation + transfer; SSD: random access lower latency, no mechanical seek

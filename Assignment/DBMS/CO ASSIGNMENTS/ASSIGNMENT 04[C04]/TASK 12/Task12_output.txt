@@ -1,0 +1,2 @@
+Random gateway inserts: 200,000/hour (55.6/sec)
+Redesign: append/partition transaction records plus B+ tree gateway TxnID and reconciliation index

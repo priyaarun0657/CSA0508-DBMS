@@ -1,0 +1,2 @@
+Hash buckets: {0: [], 1: [101, 111, 121], 2: [102, 112, 122], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [], 9: []}
+Hash equality lookup is direct; range lookup requires scanning

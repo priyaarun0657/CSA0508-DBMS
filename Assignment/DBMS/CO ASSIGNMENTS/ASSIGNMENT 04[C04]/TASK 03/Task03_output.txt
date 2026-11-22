@@ -1,0 +1,2 @@
+bfr=floor(B/R)= 20 ; b=ceil(n/bfr)= 50000
+Heap equality search worst-case blocks: 50000

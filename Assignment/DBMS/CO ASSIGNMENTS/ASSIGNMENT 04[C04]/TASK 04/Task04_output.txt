@@ -1,0 +1,2 @@
+Heap best=1 block; average≈ 500.0 ; worst= 1000
+Sorted binary search≈ceil(log2(b))= 10

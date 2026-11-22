@@ -1,0 +1,4 @@
+TxnID B+ tree primary
+AccountNo secondary B+ tree
+Branch secondary index
+TxnTime range/clustered index

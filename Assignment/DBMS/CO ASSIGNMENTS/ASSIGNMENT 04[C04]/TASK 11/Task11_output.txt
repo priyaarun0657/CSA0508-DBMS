@@ -1,0 +1,2 @@
+Recommendation: B+ tree TxnID/range, AccountNo secondary index, Branch secondary index
+Append-friendly organisation for sequential TxnID

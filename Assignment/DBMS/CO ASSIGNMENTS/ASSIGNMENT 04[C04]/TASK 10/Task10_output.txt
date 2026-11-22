@@ -1,0 +1,2 @@
+Heap grows linearly for scan; B+ tree grows logarithmically; hash favours equality
+Measured timings require repeatable local runs and identical query sets
