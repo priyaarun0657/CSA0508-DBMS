@@ -1,0 +1,11 @@
+erDiagram
+ PERSON ||--o| LENDER : role
+ PERSON ||--o| EMPLOYEE : role
+ EMPLOYEE ||--o| CURATOR : subtype
+ EMPLOYEE ||--o| REGISTRAR : subtype
+ LENDER ||--o{ LOAN : owns_custody
+ LOAN ||--|{ LOAN_OBJECT : contains
+ ARTIFACT ||--o{ LOAN_OBJECT : loan_history
+ EXHIBITION ||--|{ DISPLAY_SLOT : identifies
+ ARTIFACT ||--o{ CONDITION_REPORT : evidence
+ ARTIFACT ||--o{ ARTIFACT_OWNERSHIP : ownership_history
